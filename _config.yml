@@ -1,0 +1,28 @@
+name: Barefoot Coders
+favicon: null
+layout_spectrum: 0.34484383650124073
+typography_spectrum: 0.1946864086203277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1c3150'
+    - '#dde1e2'
+    - '#7d8697'
+    - '#3e4b66'
+    - '#b0b4bd'
+  brandStrength: 0.375
+  lightness: 0.7918792546261102
+  saturation: 0.9349018344655633
+  rhythmicContrast: 0.47941411240026355
+purpose: []
